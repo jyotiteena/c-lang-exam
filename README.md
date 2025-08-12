@@ -4,4 +4,4 @@
 ![project1](ss/project1.png)
 
 ## project2
-![project2](ss/dddfsd.png)
+![project2](ss/project2.png)
